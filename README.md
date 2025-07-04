@@ -10,3 +10,7 @@ I've made other tool in golang like "P-E-R-R-Y/Pmaker" , that allow you to gener
 3. vsc_ws update workspace to add/select needed dependencies to show on vscode
 4. maker feed the repo
 ```
+example:
+![alt text](http://github.com/Perry-chouteau/vsc_ws/docs/assets/example.png) 
+
+
