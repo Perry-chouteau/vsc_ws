@@ -11,4 +11,4 @@ I've made other tool in golang like "P-E-R-R-Y/Pmaker" , that allow you to gener
 4. maker feed the repo
 ```
 example:
-![vsc_ws print screen](https://github.com/Perry-chouteau/vsc_ws/tree/main/docs/assets/example.png)
+![vsc_ws print screen](./docs/assets/example.png)
